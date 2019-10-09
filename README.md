@@ -1,4 +1,6 @@
 # Book_PythonForDataAnalysis
 Follow the content of "Python for Data Analysis, 2nd edition, by Wes McKinney"  
 
-*Because I have already familiar with Python for over 3 year at the present (mainly use for coding & studying), I might skip a few unnecessary sessions within this book.*
+*Since I have been using Python for studying and working for 3 years, which mean I'm somewhat familiar with Python already, I might skip a few unnecessary sessions within this book.*
+
+Example dataset can be found [here](https://github.com/wesm/pydata-book)
